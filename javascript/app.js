@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: '../fake_nm', // change to node_modules when 23.1.0 has been released
+    baseUrl: '../node_modules',
     paths: {
         'agGrid': 'ag-grid-community/dist/ag-grid-community.amd.min', // for community features
         // 'agGrid': 'ag-grid-enterprise/dist/ag-grid-enterprise.amd.min',   // for enterprise features
