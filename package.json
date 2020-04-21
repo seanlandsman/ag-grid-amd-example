@@ -25,5 +25,9 @@
   "homepage": "https://github.com/seanlandsman/ag-grid-amd-example#readme",
   "devDependencies": {
     "http-server": "^0.12.1"
+  },
+  "dependencies": {
+    "ag-grid-community": "^23.0.2",
+    "ag-grid-enterprise": "^23.0.2"
   }
 }
