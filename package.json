@@ -1,0 +1,29 @@
+{
+  "name": "ag-grid-amd-example",
+  "version": "1.0.0",
+  "description": "agGrid using AMD Bundles",
+  "main": "index.js",
+  "scripts": {
+    "javascript": "http-server -o javascript/index.html",
+    "react": "http-server -o react/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanlandsman/ag-grid-amd-example.git"
+  },
+  "keywords": [
+    "ag-grid",
+    "grid",
+    "amd",
+    "bundle"
+  ],
+  "author": "Sean Landsman <sean@thelandsmans.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanlandsman/ag-grid-amd-example/issues"
+  },
+  "homepage": "https://github.com/seanlandsman/ag-grid-amd-example#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
