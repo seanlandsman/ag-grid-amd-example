@@ -24,10 +24,11 @@
   },
   "homepage": "https://github.com/seanlandsman/ag-grid-amd-example#readme",
   "devDependencies": {
-    "http-server": "^0.12.1"
+    "http-server": "^14.1.0"
   },
   "dependencies": {
-    "ag-grid-community": "^23.1.0",
-    "ag-grid-enterprise": "^23.1.0"
+    "ag-grid-community": "^26.2.1",
+    "ag-grid-enterprise": "^26.2.1",
+    "ag-grid-react": "^26.2.0"
   }
 }
